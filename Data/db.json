@@ -1,0 +1,58 @@
+{
+  "books": [
+    {
+      "id": "639d",
+      "title": "JavaScript Essentials",
+      "author": "John Doe",
+      "publication_year": "2015"
+    },
+    {
+      "id": "640e",
+      "title": "Learning Python",
+      "author": "Jane Smith",
+      "publication_year": "2018"
+    },
+    {
+      "id": "641f",
+      "title": "Data Structures and Algorithms",
+      "author": "Michael Brown",
+      "publication_year": "2020"
+    },
+    {
+      "title": "Introduction to Java",
+      "author": "Alice Johnson",
+      "publication_year": "2010",
+      "id": "642g"
+    },
+    {
+      "title": "Machine Learning Basics",
+      "author": "David White",
+      "publication_year": "2017",
+      "id": "643h"
+    },
+    {
+      "id": "644i",
+      "title": "Web Development with React",
+      "author": "Emily Davis",
+      "publication_year": "2022"
+    },
+    {
+      "id": "645j",
+      "title": "Database Management Systems",
+      "author": "Chris Green",
+      "publication_year": "2005"
+    },
+    {
+      "title": "Java",
+      "author": "Hena",
+      "publication_year": "2001",
+      "id": "200d"
+    },
+    {
+      "id": "8314",
+      "title": "Yes Good",
+      "author": "ahah",
+      "publication_year": "2001"
+    }
+  ]
+}
